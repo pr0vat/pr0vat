@@ -2,7 +2,7 @@
 - 👀 I’m interested in CFD Simulations and aerospace technologies
 - 🌱 I’m currently learning Python and how to use git/Hub
 - 🐉 I’m looking to collaborate on nothing so far until I understand how to program and use git/Hub
-- 📫 How to reach me: haqupp05.211@gmail.com
+- 📫 How to reach me: haqup05.211@gmail.com
 - ⚡ Fun fact: N/A
 
 <!---
